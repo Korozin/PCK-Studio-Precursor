@@ -1,5 +1,5 @@
-# PCK-Studio-Alternative
-A alternative to PCK Studio that anyone can use. Allows for direct editing of the dlcskin.txt files with GUI, LOC editing
+# PCK-Studio-Precursor
+A Precursor to PCK Studio that anyone can use as an alternative. Allows for direct editing of the dlcskin.txt files with GUI, LOC editing
 and the ability to add whatever META you want just by clicking on the skin. Shows PNG preview etc. The only thing it doesnt
 include is a server for Skin IDs but I included something for that.
 
